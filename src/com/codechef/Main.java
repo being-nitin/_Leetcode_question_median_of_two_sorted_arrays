@@ -30,4 +30,5 @@ public class Main {
  // it comes under java.lang.System package:
 /*
 if the length of the array is even then the median will be (mid+mid+1)/2
+and if the length of the array is odd then the mid value will be the median.
  */
