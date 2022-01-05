@@ -28,3 +28,6 @@ public class Main {
 }
 // System.arraycopy will copy the elements of one array to another array:
  // it comes under java.lang.System package:
+/*
+if the length of the array is even then the median will be (mid+mid+1)/2
+ */
