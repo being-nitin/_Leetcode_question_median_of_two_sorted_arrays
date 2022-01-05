@@ -27,3 +27,4 @@ public class Main {
     }
 }
 // System.arraycopy will copy the elements of one array to another array:
+ // it comes under java.lang.System package:
